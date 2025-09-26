@@ -1,4 +1,4 @@
-const API_KEY = process.env.API_KEY;
+const API_KEY="5d204f486ed789023cfd71ac59411415";
 const searchBtn=document.getElementById("search-btn");
 const cityInput=document.getElementById("city-input");
 const currentWeatherDiv=document.getElementById("current-weather");
